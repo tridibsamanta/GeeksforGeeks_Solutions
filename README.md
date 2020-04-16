@@ -1,4 +1,4 @@
-# GeeksforGeeks_Solutions
+# GeeksforGeeks Solutions
 
 ![GFG](https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-6.png)
 
