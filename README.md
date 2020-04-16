@@ -4,4 +4,4 @@
 
 ***My solution to some problems listed on GeeksforGeeks***
 
-:link: Check out the problems - [Click here](https://practice.geeksforgeeks.org/) !
+:link: Check out the problems - [Click here](https://practice.geeksforgeeks.org/)
